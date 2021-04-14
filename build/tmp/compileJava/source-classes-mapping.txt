@@ -1,0 +1,24 @@
+JPA/Estado.java
+ JPA.Estado
+JDBC/MySQL/QueriesExecution.java
+ JDBC.MySQL.QueriesExecution
+JDBC/PostgreSQL/ConnectionJDBC.java
+ JDBC.PostgreSQL.ConnectionJDBC
+JDBC/MySQL/Curso.java
+ JDBC.MySQL.Curso
+JDBC/MySQL/CursoDAO.java
+ JDBC.MySQL.CursoDAO
+JDBC/MySQL/AlunoDAO.java
+ JDBC.MySQL.AlunoDAO
+JDBC/MySQL/ConnectionFactory.java
+ JDBC.MySQL.ConnectionFactory
+JPA/Aluno.java
+ JPA.Aluno
+JDBC/MySQL/ConnectionJDBC.java
+ JDBC.MySQL.ConnectionJDBC
+JDBC/MySQL/Aluno.java
+ JDBC.MySQL.Aluno
+JPA/Execution1.java
+ JPA.Execution1
+JPA/Execution2.java
+ JPA.Execution2
